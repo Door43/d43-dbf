@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbf:home|Door43 (dbf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbf|d43-dbf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbf/archive/master.zip|d43-dbf.zip]]
+
+**Recent Changes**
+{{changes>ns = dbf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbf|Ethnologue data]]
+
